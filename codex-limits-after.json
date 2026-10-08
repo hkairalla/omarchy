@@ -4,7 +4,7 @@
   "name": "Codex",
   "ready": true,
   "scope": "account",
-  "updatedAt": "2026-10-08T20:47:08Z",
+  "updatedAt": "2026-10-08T20:52:11Z",
   "hasLocalStats": false,
   "hasPromptStats": false,
   "modelUsage": {},
@@ -13,13 +13,13 @@
     {
       "label": "5h window",
       "percent": 0.25,
-      "resetsAt": "2026-10-09T00:47:08+00:00",
+      "resetsAt": "2026-10-09T00:52:10+00:00",
       "title": "codex \u00b7 5h window"
     },
     {
       "label": "1h window",
       "percent": 0.8,
-      "resetsAt": "2026-10-09T00:47:08+00:00",
+      "resetsAt": "2026-10-09T00:52:10+00:00",
       "title": "Other model \u00b7 1h window"
     }
   ],
