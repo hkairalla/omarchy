@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "codex",
+  "name": "Codex",
+  "ready": true,
+  "scope": "account",
+  "updatedAt": "2026-10-08T20:47:08Z",
+  "hasLocalStats": false,
+  "hasPromptStats": false,
+  "modelUsage": {},
+  "recentDays": [],
+  "limits": [
+    {
+      "label": "5h window",
+      "percent": 0.25,
+      "resetsAt": "2026-10-09T00:47:08+00:00"
+    }
+  ],
+  "tierLabel": "pro",
+  "usageStatusText": "",
+  "authHelpText": ""
+}
